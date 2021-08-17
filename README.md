@@ -1,2 +1,2 @@
 # TestGit
-This is for testing git
+My app sample
